@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Runpeng Gao"
   avatar           : "profile.png"
-  bio              : "Master Degree,Nanjing University  Bachelor Degree,Nanjing Normal University"
+  bio              : "Master Degree,Nanjing University" "/n" "Bachelor Degree,Nanjing Normal University"
   location         : "China"
   employer         :
   pubmed           : 
