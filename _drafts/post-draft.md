@@ -2,8 +2,7 @@
 layout: single
 title:  "Draft Post"
 header:
-  teaser: "photo.jpg"
-  //unsplash-gallery-image-2-th
+  teaser: "unsplash-gallery-image-2-th.jpg"
 categories: 
   - Jekyll
 tags:
