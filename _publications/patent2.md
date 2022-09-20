@@ -3,8 +3,8 @@ title: "patent2: Mini-LED backlight driving control chip and system supporting b
 collection: publications
 permalink: /publication/patent2
 excerpt: 'CN113838414A'
-date: 2021-12-29
-venue: 'December 29'
+date: 2021-12-28
+venue: 'December 28'
 paperurl: 'http://rppgao.github.io/files/patent2.pdf'
 citation: 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "1. paper: Hearing loss identification by wavelet entropy and cat swarm optimization"
+title: "paper: Hearing loss identification by wavelet entropy and cat swarm optimization"
 collection: publications
 permalink: /publication/paper1
 excerpt: ''
