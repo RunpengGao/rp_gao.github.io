@@ -1,5 +1,5 @@
 ---
-title: "patent2: Mini-LED backlight driving control chip and system supporting breakpoint resume"
+title: "Patent2: Mini-LED backlight driving control chip and system supporting breakpoint resume"
 collection: publications
 permalink: /publication/patent2
 excerpt: 'CN113838414A'
