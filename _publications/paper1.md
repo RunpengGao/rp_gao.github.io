@@ -3,7 +3,7 @@ title: "paper: Hearing loss identification by wavelet entropy and cat swarm opti
 collection: publications
 permalink: /publication/paper1
 excerpt: ''
-date: 2019-02-01
+date: 2022-02-01
 venue: 'ADVANCES IN MATERIALS, MACHINERY, ELECTRONICS III: 3rd International Conference on Advances in Materials, Machinery, Electronics (AMME 2019) , 2019'
 paperurl: 'http://rppgao.github.io/files/paper1.pdf'
 citation: 
