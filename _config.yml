@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Runpeng Gao"
   avatar           : "profile.png"
-  bio              : " Master,Nanjing University "
-  location         : "China"
+  bio              : "Master,Nanjing University "
+  location         : "Nanjing,China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "rp_gao@foxmail.com"
+  rp_gao@foxmail.com            : "rp_gao@foxmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
