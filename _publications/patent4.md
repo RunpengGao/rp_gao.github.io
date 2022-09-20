@@ -1,5 +1,5 @@
 ---
-title: "patent4: Shadow elimination voltage level control method, display method, system and display device"
+title: "Patent4: Shadow elimination voltage level control method, display method, system and display device"
 collection: publications
 permalink: /publication/patent4
 excerpt: 'CN113314072A'
