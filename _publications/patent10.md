@@ -1,8 +1,8 @@
 ---
-title: "LED display screen row driving chip driving method and chip"
+title: "Patent10: LED display screen row driving chip driving method and chip"
 collection: publications
 permalink: /publication/patent10
-excerpt: 
+excerpt: ' '
 date: 2020-9-29
 venue: 'September 29'
 paperurl: 'http://rppgao.github.io/files/patent10.pdf'
