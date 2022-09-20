@@ -1,5 +1,5 @@
 ---
-title: "patent3: LED driving current modulation method and system and application"
+title: "Patent3: LED driving current modulation method and system and application"
 collection: publications
 permalink: /publication/patent3
 excerpt: 'CN113554980A'
