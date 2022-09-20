@@ -1,5 +1,5 @@
 ---
-title: "2. patent1: Mini-LED driving method and display system"
+title: "patent1: Mini-LED driving method and display system"
 collection: publications
 permalink: /publication/patent1
 excerpt: 'CN113851080A'

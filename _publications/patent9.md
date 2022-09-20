@@ -1,5 +1,5 @@
 ---
-title: "10. Patent9: Active clamping circuit"
+title: "Patent9: Active clamping circuit"
 collection: publications
 permalink: /publication/patent9
 excerpt: 'CN111831045A'

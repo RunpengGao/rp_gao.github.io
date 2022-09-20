@@ -1,5 +1,5 @@
 ---
-title: "11. Patent10: LED display screen row driving chip driving method and chip"
+title: "Patent10: LED display screen row driving chip driving method and chip"
 collection: publications
 permalink: /publication/patent10
 excerpt: 'CN111724727A'

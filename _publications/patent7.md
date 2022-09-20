@@ -1,5 +1,5 @@
 ---
-title: "8. Patent7: Driving method and device of display element"
+title: "Patent7: Driving method and device of display element"
 collection: publications
 permalink: /publication/patent7
 excerpt: 'CN112908244A'

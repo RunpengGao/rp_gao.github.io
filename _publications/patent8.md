@@ -1,5 +1,5 @@
 ---
-title: "9. Patent8: LED driving method, LED driving circuit and display screen"
+title: "Patent8: LED driving method, LED driving circuit and display screen"
 collection: publications
 permalink: /publication/patent8
 excerpt: 'CN112735326A'
