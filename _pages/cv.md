@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download paper here](http://rppgao.github.io/files/paper1.pdf)
+
 Education
 ======
 * B.S. in School of Electrical and Automation Engineering, Nanjing Normal University, 2016-2020
