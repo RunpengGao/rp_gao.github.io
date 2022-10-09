@@ -9,13 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-[Download paper here](http://rppgao.github.io/files/paper1.pdf)
+[Download CV here](http://rppgao.github.io/files/CV.pdf)
 
 Education
 ======
-* B.S. in School of Electrical and Automation Engineering, Nanjing Normal University, 2016-2020
 * M.S. in School of Electronic Science and Engineering, Nanjing University, 2020-2023
-
+	* GPA: 3.59/4    Rank: 5%
+	
+* B.S. in School of Electrical and Automation Engineering, Nanjing Normal University, 2016-2020
+	* GPA: 3.57/4    Rank: 4%, 4/95
+	
 Work experience
 ======
 Intern Analog Design Engineer, Nanjing Huanxuan Semiconductor Co., LTD, 03/2020-Present
@@ -81,8 +84,7 @@ Awards
 * Scholarship of Nari Group, 2 times, NNU & Nari Group
 * Advanced Individual Award, College Students' Summer Social Practice, 2 times, NNU
 * Second Prize, Mechanical Drawing Contest, 2 times, NNU
- 
-  
+
   
 Service and leadership
 ======
